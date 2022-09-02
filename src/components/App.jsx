@@ -22,7 +22,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      {/* React homework template */}
+      <h1>React homework</h1>
       <Profile
         username={user.username}
         tag={user.tag}
